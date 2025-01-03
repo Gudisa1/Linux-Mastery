@@ -1,5 +1,3 @@
----
-
 # **Linux Mastery**
 
 **Linux Mastery** is a comprehensive repository designed to guide you through mastering the Linux operating system. Whether you're a beginner getting to grips with the basics or an advanced user diving into deeper topics, this repository offers a wealth of resources and examples to help you hone your Linux skills.
