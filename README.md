@@ -26,8 +26,6 @@ Clone the repository to your local machine:
 git clone https://github.com/Gudisa1/Linux-Mastery.git
 ```
 
-````
-
 Navigate to the repository directory:
 
 ```bash
@@ -82,4 +80,7 @@ If you have any questions, feedback, or suggestions, feel free to open an issue 
 ## **Let’s Master Linux Together!**
 
 ---
-````
+
+```
+
+```
