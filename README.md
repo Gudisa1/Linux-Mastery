@@ -1,6 +1,3 @@
-Here’s a **GitHub README** for your repository:
-
-````markdown
 # Linux Mastery
 
 **Linux Mastery** is a repository dedicated to helping you become proficient with the Linux operating system. Whether you're a beginner learning the basics or an advanced user exploring in-depth concepts, this repository offers valuable resources and examples to enhance your Linux skills.
@@ -26,6 +23,7 @@ Here’s a **GitHub README** for your repository:
    ```bash
    git clone https://github.com/Gudisa1/Linux-Mastery.git
    ```
+
 ````
 
 2. Navigate to the repository directory:
@@ -81,3 +79,4 @@ For questions, feedback, or suggestions, feel free to open an issue or contact [
 ```
 
 ```
+````
