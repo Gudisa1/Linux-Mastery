@@ -1,4 +1,4 @@
-### What is an Operating System (OS)?
+# What is an Operating System (OS)?
 
 An **Operating System (OS)** is system software that serves as the intermediary between a computer's hardware and its users or applications. It manages the hardware and provides a set of services to applications, allowing them to operate without needing to directly interact with the physical hardware.
 
